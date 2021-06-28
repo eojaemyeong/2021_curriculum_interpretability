@@ -1,7 +1,6 @@
 # 2021_MastersDegree
 
-ABSTRACT
-Training neural network requires careful understanding of how the training process is overall processed.
+ABSTRACT: Training neural network requires careful understanding of how the training process is overall processed.
 Relying on highly capable computers and large and diverse dataset have shown us the promising potential of
 training deep neural network, and results showed superiority of artificial intelligence over human brain. How-
 ever, the reasoning behind the decision made by the model is often neglected. In convolutional neural net-
