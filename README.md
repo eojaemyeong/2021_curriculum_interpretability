@@ -1,4 +1,4 @@
-# 2021_MastersDegree
+# Post-hoc Analysis of Trained Classification for Interpretability (2021 Master Thesis)
 
 ABSTRACT: Training neural network requires careful understanding of how the training process is overall processed.
 Relying on highly capable computers and large and diverse dataset have shown us the promising potential of
